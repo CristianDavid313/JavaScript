@@ -18,7 +18,9 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 * En la carpeta **RepasoHtml** encontrará los conceptos básicos de HTML y como utilizarlos en sitios web.
 
-![Nombre del proyecto](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/01_MenuBasico.png)
+* En la carpeta **RepasoCss** encontrará los conseptos resumidos de como aplicar CSS a un sitio Web:
+
+![RepasoCss](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/01_TeoriaCss.png)
 
 ## Referencias 🔧
 
