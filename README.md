@@ -16,6 +16,8 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 * En la carpeta **TeoriaDOM** encontrará los conceptos básicos de JavaScript y como interactuar con HTML.
 
+* En la carpeta **RepasoHtml** encontrará los conceptos básicos de HTML y como utilizarlos en sitios web.
+
 ![Nombre del proyecto](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/01_MenuBasico.png)
 
 ## Referencias 🔧
