@@ -26,6 +26,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![RepasoFlexbox](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/02_RepasoFlexbox.png)
 
+* En la carpeta **RepasoGrid** encontrará los conseptos resumidos de como aplicar Grid a un sitio web:
+
+![RepasoGrid](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/03_RepasoGrid.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
