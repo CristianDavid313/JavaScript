@@ -22,6 +22,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![RepasoCss](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/01_TeoriaCss.png)
 
+* En la carpeta **RepasoFlexbox** encontrará los conseptos resumidos de como aplicar FlexBox a un sitio web:
+
+![RepasoFlexbox](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/02_RepasoFlexbox.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
