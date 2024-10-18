@@ -18,6 +18,8 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 * En la carpeta **TeoriaArrays** encontrará los conceptos básicos de como funcionan los Arrays y como estos nos permiten almacenar información.
 
+* En la carpeta **TeoriaJSON** encontrará los conceptos básicos de como trabajar con un archivo JSON a traves de Fetch then.
+
 * En la carpeta **RepasoHtml** encontrará los conceptos básicos de HTML y como utilizarlos en sitios web.
 
 * En la carpeta **RepasoCss** encontrará los conseptos resumidos de como aplicar CSS a un sitio Web:
