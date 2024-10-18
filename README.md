@@ -16,6 +16,8 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 * En la carpeta **TeoriaDOM** encontrará los conceptos básicos de JavaScript y como interactuar con HTML.
 
+* En la carpeta **TeoriaArrays** encontrará los conceptos básicos de como funcionan los Arrays y como estos nos permiten almacenar información.
+
 * En la carpeta **RepasoHtml** encontrará los conceptos básicos de HTML y como utilizarlos en sitios web.
 
 * En la carpeta **RepasoCss** encontrará los conseptos resumidos de como aplicar CSS a un sitio Web:
@@ -34,7 +36,7 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 Para profundizar en los temas puedes revisar:
 
-* [Nombre de la pagina](Link) - Ejemplo
+* [Fetching JSON](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html) - Sitio web donde encontraremos APIs de ejemplo para probrar nuestros sistemas.
 
 ---
 😁

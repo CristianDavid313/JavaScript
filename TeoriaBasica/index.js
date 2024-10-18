@@ -62,3 +62,5 @@ function cafetera(variable1,variable2){
 }
 var final=cafetera(1,2);
 console.log(final);
+
+//Aunque var y let pueden ser similares es muy importante saber que var puede ser modificado a lo largo del codigo mientras que let es inmutable
