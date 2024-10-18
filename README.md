@@ -36,7 +36,7 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 * En la carpeta **01_Calculadora** encontrará una calculadora funcional con la caracteristica del cambio a claro o oscuro:
 
-![01_Calculadora](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/01_Calculadora.png)
+![01_Calculadora](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/04_Calculadora.png)
 
 ## Referencias 🔧
 
