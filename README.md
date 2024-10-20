@@ -38,6 +38,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![01_Calculadora](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/04_Calculadora.png)
 
+* En la carpeta **02_Menu** encontrará un menu desplegable con 5 opciones diferentes:
+
+![02_Menu](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/05_Menu.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
