@@ -34,6 +34,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![RepasoGrid](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/03_RepasoGrid.png)
 
+* En la carpeta **RepasoSass** encontrará los conseptos resumidos de como aplicar SASS a un sitio Web:
+
+![RepasoSass](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/06_RepasoSass.png)
+
 * En la carpeta **01_Calculadora** encontrará una calculadora funcional con la caracteristica del cambio a claro o oscuro:
 
 ![01_Calculadora](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/04_Calculadora.png)
