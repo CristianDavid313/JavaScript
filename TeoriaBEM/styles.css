@@ -1,0 +1,10 @@
+/*
+BEM = Bloque Elemento Modificador (Metodología)
+
+Se usa siempre CLASS en lugar de ID
+
+Class = Aplicar estilos
+Id = Aplicar funcionalidad (javascript)
+
+.bloque__elemento--modificador
+*/
