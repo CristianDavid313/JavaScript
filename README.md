@@ -46,6 +46,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![02_Menu](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/05_Menu.png)
 
+* En la carpeta **03_Toggle** encontrará un botón que tiene la funcionalidad de desplegar un texto al dar clic sobre el mismo y a su vez oculta el texto si se vuelve a presionar el botón:
+
+![03_Toggle](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/07_Toggle.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
