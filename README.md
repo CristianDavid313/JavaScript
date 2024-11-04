@@ -50,6 +50,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![03_Toggle](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/07_Toggle.png)
 
+* En la carpeta **04_DarkTheme** encontrará un botón que tiene la funcionalidad de cambiar de modo oscuro a modo claro y viceversa:
+
+![04_DarkTheme](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/08_DarkTheme.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
