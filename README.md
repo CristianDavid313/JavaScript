@@ -38,6 +38,10 @@ git clone https://github.com/CristianDavid313/JavaScript.git
 
 ![RepasoSass](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/06_RepasoSass.png)
 
+* En la carpeta **TeoriaBEM** encontrará los conseptos resumidos de como aplicar BEM (metodología de nomenclatura para nombrar clases en hojas de estilo CSS y HTML):
+
+![TeoriaBEM](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/09_TeoriaBEM.png)
+
 * En la carpeta **01_Calculadora** encontrará una calculadora funcional con la caracteristica del cambio a claro o oscuro:
 
 ![01_Calculadora](https://github.com/CristianDavid313/JavaScript/blob/main/Capturas/04_Calculadora.png)
